@@ -1,2 +1,2 @@
-# Practice-of-All-Data-Structure
-Practice at hostel and home(In .cpp)
+# Implementation_of_data struture
+From zero to hero Everything is included!
